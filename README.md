@@ -1,15 +1,21 @@
 Project Title: Student Management System
 
 Synopsis:
+
 The Student Management System is a console-based Python program designed to manage a list of student names. It provides functionalities for displaying the list of students, adding new students, removing existing students, and searching for students by name.
 
 Features:
 
 Show Student List: Display the current list of students.
+
 Add Student: Add a new student to the list.
+
 Remove Student: Remove an existing student from the list.
+
 Search Student: Search for a student by name in the list.
+
 Exit: Quit the program.
+
 Functionality:
 
 The program runs in an infinite loop, continuously displaying a menu of options until the user chooses to exit.
