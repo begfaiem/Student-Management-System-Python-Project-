@@ -18,9 +18,10 @@ Exit: Quit the program.
 
 Functionality:
 
-The program runs in an infinite loop, continuously displaying a menu of options until the user chooses to exit.
-Users can select options to perform various actions on the student list, such as viewing, adding, removing, or searching for students.
-Input validation ensures that users enter valid choices and inputs for each action.
+- The program runs in an infinite loop, continuously displaying a menu of options until the user chooses to exit.
+- Users can select options to perform various actions on the student list, such as viewing, adding, removing, or searching for students.
+- Input validation ensures that users enter valid choices and inputs for each action.
+
 Usage:
 
 Run the program.
